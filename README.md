@@ -7,3 +7,7 @@
 <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mromnes&langs_count=8&theme=dark&show_icons=true&hide=stars" />
 
 <div />
+  
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=mromnes&&style=flat-square" align="right" />
+</div>
