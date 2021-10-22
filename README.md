@@ -1,7 +1,7 @@
 # **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
 ### <div align="center">I'm Kévin, a software engineer student [@HolbertonSchool](https://github.com/holbertonschool) in Paris, France 🇫🇷</div> 
 
-##Business
+## Business
 
 ### <div align="center"><img src="https://streamrunners.fr/public/logotype_dark.svg" /></div>
 
