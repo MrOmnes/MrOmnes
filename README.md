@@ -1,5 +1,5 @@
 # **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
-### <div align="center">I'm Kévin, a software engineer student [@HolbertonSchool](https://github.com/holbertonschool) in Paris, France 🇫🇷</div> 
+### <div align="center">I'm Kévin, a software engineer student [@HolbertonSchool](https://github.com/holbertonschool) in Lille, France 🇫🇷</div> 
 
 ## Business
 
