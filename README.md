@@ -6,7 +6,7 @@
 ### <div align="center"><img src="https://streamrunners.fr/public/logotype_dark.svg" /></div>
 
 <br>
-I'm the owner of the [StreamRunners](https://streamrunners.fr/press) company, a development studio based in France.  
+I'm the owner of the [StreamRunners] (https://streamrunners.fr/press) company, a development studio based in France.  
 We help little Streamers and internet brand to grow up with a community based website. 
 <br>
 <br>
